@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Adivyes.github.io/static/css/main.72e6df8c.chunk.css",
-    "main.js": "/Adivyes.github.io/static/js/main.11c51e8d.chunk.js",
-    "main.js.map": "/Adivyes.github.io/static/js/main.11c51e8d.chunk.js.map",
-    "runtime-main.js": "/Adivyes.github.io/static/js/runtime-main.52ffeaf7.js",
-    "runtime-main.js.map": "/Adivyes.github.io/static/js/runtime-main.52ffeaf7.js.map",
-    "static/js/2.ab1aebc1.chunk.js": "/Adivyes.github.io/static/js/2.ab1aebc1.chunk.js",
-    "static/js/2.ab1aebc1.chunk.js.map": "/Adivyes.github.io/static/js/2.ab1aebc1.chunk.js.map",
-    "static/js/3.c79464e0.chunk.js": "/Adivyes.github.io/static/js/3.c79464e0.chunk.js",
-    "static/js/3.c79464e0.chunk.js.map": "/Adivyes.github.io/static/js/3.c79464e0.chunk.js.map",
-    "index.html": "/Adivyes.github.io/index.html",
-    "static/css/main.72e6df8c.chunk.css.map": "/Adivyes.github.io/static/css/main.72e6df8c.chunk.css.map",
-    "static/js/2.ab1aebc1.chunk.js.LICENSE.txt": "/Adivyes.github.io/static/js/2.ab1aebc1.chunk.js.LICENSE.txt",
-    "static/media/logo.b4b93073.svg": "/Adivyes.github.io/static/media/logo.b4b93073.svg"
+    "main.css": "/static/css/main.72e6df8c.chunk.css",
+    "main.js": "/static/js/main.11c51e8d.chunk.js",
+    "main.js.map": "/static/js/main.11c51e8d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b9efc7d6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b9efc7d6.js.map",
+    "static/js/2.6543304e.chunk.js": "/static/js/2.6543304e.chunk.js",
+    "static/js/2.6543304e.chunk.js.map": "/static/js/2.6543304e.chunk.js.map",
+    "static/js/3.c79464e0.chunk.js": "/static/js/3.c79464e0.chunk.js",
+    "static/js/3.c79464e0.chunk.js.map": "/static/js/3.c79464e0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.72e6df8c.chunk.css.map": "/static/css/main.72e6df8c.chunk.css.map",
+    "static/js/2.6543304e.chunk.js.LICENSE.txt": "/static/js/2.6543304e.chunk.js.LICENSE.txt",
+    "static/media/logo.b4b93073.svg": "/static/media/logo.b4b93073.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.52ffeaf7.js",
-    "static/js/2.ab1aebc1.chunk.js",
+    "static/js/runtime-main.b9efc7d6.js",
+    "static/js/2.6543304e.chunk.js",
     "static/css/main.72e6df8c.chunk.css",
     "static/js/main.11c51e8d.chunk.js"
   ]
