@@ -1,0 +1,162 @@
+main {
+    grid-area: main;
+    overflow-y: auto;
+  }
+  
+  .main__container {
+    padding: 20px 35px;
+  }
+
+  .main__title {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* .main__title > img {
+    max-height: 100px;
+    object-fit: contain;
+    margin-right: 20px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 9px #0a050583, -3px -3px 9px  #0802025b;
+
+  } */
+  
+  .main__greeting > h1 {
+    font-size: 24px;
+    color: #2e4a66;
+    margin-bottom: 5px;
+  }
+  
+  .main__greeting > p {
+    font-size: 14px;
+    font-weight: 700;
+    color: #2e4a66;
+  }
+  
+  .main__cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap: 30px;
+    margin: 20px 0;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 70px;
+    padding: 25px;
+    border-radius: 5px;
+    background: #ffffff;
+    box-shadow: 1px 1px 10px 1px #acacac94;
+  }
+  
+  .card_inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .card_inner > span {
+    font-size: 25px;
+  }
+  
+  .charts {
+    display: grid;
+    grid-template-columns: 1fr ;
+    gap: 30px;
+    margin-top: 50px;
+  }
+
+  
+  .charts__right {
+    padding: 25px;
+    border-radius: 5px;
+    background: #ffffff;
+    box-shadow: 1px 1px 10px 1px #acacac94;
+  }
+  
+  .charts__right__title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .charts__right__title > div > h1 {
+    font-size: 24px;
+    color: #2e4a66;
+    margin-bottom: 5px;
+  }
+  
+  .charts__right__title > div > p {
+    font-size: 14px;
+    font-weight: 700;
+    color: #a5aaad;
+  }
+  
+  .charts__right__title > i {
+    color: #ffffff;
+    font-size: 20px;
+    background: #2a325a;
+    border-radius: 200px 0px 200px 200px;
+    -moz-border-radius: 200px 0px 200px 200px;
+    -webkit-border-radius: 200px 0px 200px 200px;
+    border: 0px solid #000000;
+    padding: 15px;
+  }
+  
+  .charts__right__cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-top: 30px;
+  }
+  
+  .card1 {
+    background: #d1ecf1;
+    color: #35a4ba;
+    text-align: center;
+    padding: 25px;
+    border-radius: 5px;
+    font-size: 10px;
+  }
+  
+  .card2 {
+    background: #d1ecf1;
+    color: #35a4ba;
+    text-align: center;
+    padding: 25px;
+    border-radius: 5px;
+    font-size: 10px;
+  }
+  
+  .card3 {
+    background: #d1ecf1;
+    color: #35a4ba;
+    text-align: center;
+    padding: 25px;
+    border-radius: 5px;
+    font-size: 10px;
+  }
+  
+  .card4 {
+    background: #d1ecf1;
+    color: #35a4ba;
+    text-align: center;
+    padding: 25px;
+    border-radius: 5px;
+    font-size: 10px;
+  }
+  
+  @media only screen and (max-width: 855px) {
+    .main__cards {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      margin-bottom: 0;
+    }
+  
+    .charts {
+      grid-template-columns: 1fr;
+      margin-top: 30px;
+    }
+  }
